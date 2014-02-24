@@ -1,0 +1,4 @@
+// this is a generated file - DO NOT EDIT
+
+TI_GEOFENCE_OTHER_LDFLAGS=$(inherited) -framework CoreLocation
+OTHER_LDFLAGS=$(inherited) $(TI_GEOFENCE_OTHER_LDFLAGS) 
